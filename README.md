@@ -37,15 +37,6 @@ __ESP32 Pages :)__
 
 ## Images
 
-![Minion](https://octodex.github.com/images/minion.png)
-![Stormtroopocat](https://octodex.github.com/images/stormtroopocat.jpg "The Stormtroopocat")
-
-Like links, Images also have a footnote style syntax
-
-![Alt text][id]
-
-With a reference later in the document defining the URL location:
-
-[id]: https://octodex.github.com/images/dojocat.jpg  "The Dojocat"
-
-
+![ESP32 Placa](https://github.com/Maxss5/Micropython_BME680_-_Oled/blob/develop/images/ESP32Board.png "Placa ESP32")
+![SSD1306 Oled Funcionando](https://github.com/Maxss5/Micropython_BME680_-_Oled/blob/develop/images/ssd1306_OLED.png "Oled SSD1306")
+![bme680 Sensor](https://github.com/Maxss5/Micropython_BME680_-_Oled/blob/develop/images/bme680Sensor.png "Sensor BME6806")
